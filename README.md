@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/BVulaj/persistence-api.svg)](https://travis-ci.org/BVulaj/persistence-api)
+
 persistence-api
 ===============
 
